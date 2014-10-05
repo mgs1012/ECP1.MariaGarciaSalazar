@@ -11,5 +11,9 @@ public class ClaseA {
 	public void setNum1(int num1) {
 		this.num1 = num1;
 	}
+	
+	public boolean esMayor(int num2){
+		return this.num1>num2;
+	}
 
 }
