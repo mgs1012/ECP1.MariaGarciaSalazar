@@ -2,6 +2,7 @@ package packECP1;
 
 public class ClaseB {
 	
+
 	private String name;
 
 	public String getName() {
@@ -11,5 +12,8 @@ public class ClaseB {
 	public void setName(String name) {
 		this.name = name;
 	}
+
+	private Semana dia;
+
 
 }
