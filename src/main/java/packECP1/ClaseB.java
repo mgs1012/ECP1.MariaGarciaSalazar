@@ -19,4 +19,8 @@ public class ClaseB {
 		System.out.println("this.name" + " this.dia");
 	}
 
+	public void mostrarDia(){
+		System.out.println("Día de la semana: " + this.dia);
+	}
+
 }
