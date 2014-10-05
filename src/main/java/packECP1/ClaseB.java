@@ -15,5 +15,8 @@ public class ClaseB {
 
 	private Semana dia;
 
+	public void mostrar(){
+		System.out.println("this.name" + " this.dia");
+	}
 
 }
