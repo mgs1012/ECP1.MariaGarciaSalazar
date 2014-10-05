@@ -7,5 +7,9 @@ public class ClaseC {
 	private String apellidos;
 	
 	private int edad;
+	
+	public void mostrar(){
+		System.out.println("Información: this.nombre, this.apellidos, this.edad");
+	}
 
 }
